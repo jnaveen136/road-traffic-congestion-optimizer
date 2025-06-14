@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Road Traffic Congestion Optimizer
 
 This project simulates a traffic network and uses machine learning to predict congestion on roads. It combines predicted congestion levels with Dijkstra’s algorithm to find the fastest route.
@@ -17,3 +18,6 @@ python app.py
 ## Output
 - Best route from A to C
 - Estimated travel time considering congestion
+=======
+# road-traffic-congestion-optimizer
+>>>>>>> 37139adafa32568bbbfd770658a4697be67254cf
